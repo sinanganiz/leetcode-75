@@ -1,7 +1,7 @@
 # LeetCode 75
 
 📘 This repository contains my solutions for the [LeetCode 75 Study Plan](https://leetcode.com/studyplan/leetcode-75/).  
-🎯 My goal is to **complete all 75 problems** with clean, efficient, and well-documented C# solutions.
+🎯 My goal is to **complete all 75 problems** with clean and efficient C# solutions.
 
 ## ✅ Progress: X / 75
 
