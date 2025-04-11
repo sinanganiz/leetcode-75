@@ -21,7 +21,7 @@ Given two strings ``str1`` and ``str2``, return *the largest string ``x`` such t
 
 ### Complexity
 
-Let $$m$$,$$n$$ be the lengthes of the two input strings ``str1`` and ``str2``.
+Let $$m$$, $$n$$ be the lengthes of the two input strings ``str1`` and ``str2``.
 
 - **Time complexity:** $$O(m+n)$$
 - **Space complexity:** $$O(m+n)$$
