@@ -26,6 +26,8 @@ Return *the merged string*.
 
 ### Code
 
+You can find the solution code in the [MergeAlternately.cs](MergeAlternately.cs) file.
+
 ```csharp
 public class Solution
 {
