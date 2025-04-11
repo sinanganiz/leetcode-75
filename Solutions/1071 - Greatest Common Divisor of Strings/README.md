@@ -28,6 +28,8 @@ Let $$m$$, $$n$$ be the lengthes of the two input strings ``str1`` and ``str2``.
 
 ### Code
 
+You can find the solution code in the [GcdOfStrings.cs](../GcdOfStrings.cs)file.
+
 ```csharp
 public class Solution
 {
