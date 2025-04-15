@@ -3,7 +3,7 @@
 📘 This repository contains my solutions for the [LeetCode 75 Study Plan](https://leetcode.com/studyplan/leetcode-75/).  
 🎯 My goal is to **complete all 75 problems** with clean and efficient C# solutions.
 
-## ✅ Progress: 6 / 75
+## ✅ Progress: 7 / 75
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|----------|
@@ -13,6 +13,7 @@
 | 4 | [605 - Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | Array / String | [Link](./Solutions/605%20-%20Can%20Place%20Flowers/README.md) |
 | 5 | [345 - Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Array / String | [Link](./Solutions/345%20-%20Reverse%20Vowels%20of%20a%20String/README.md) |
 | 6 | [151 - Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Array / String | [Link](./Solutions/151%20-%20Reverse%20Words%20in%20a%20String/README.md) |
+| 7 | [238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array / String | [Link](./Solutions/238%20-%20Product%20of%20Array%20Except%20Self/README.md) |
 
 ## 🚀 How to Run
 
@@ -31,11 +32,14 @@ dotnet test
 LeetCode-75/
 ├── Solutions/
 │   └── 151 - Reverse Words in a String/
+│       ├── README.md
+│       └── ReverseWords.cs
+│   └── 238 - Product of Array Except Self/
+│       ├── ProductExceptSelf.cs
 │       └── README.md
-│       ├── ReverseWords.cs
 │   └── 345 - Reverse Vowels of a String/
-│       └── README.md
-│       ├── ReverseVowels.cs
+│       ├── README.md
+│       └── ReverseVowels.cs
 │   └── 605 - Can Place Flowers/
 │       ├── CanPlaceFlowers.cs
 │       └── README.md
@@ -53,6 +57,7 @@ LeetCode-75/
 │   └── GcdOfStringsTests.cs
 │   └── KidsWithCandiesTests.cs
 │   └── MergeAlternatelyTests.cs
+│   └── ProductExceptSelfTests.cs
 │   └── ReverseVowelsTests.cs
 │   └── ReverseWordsTests.cs
 ├── LeetCode75.sln
