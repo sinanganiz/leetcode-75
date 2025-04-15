@@ -3,7 +3,7 @@
 📘 This repository contains my solutions for the [LeetCode 75 Study Plan](https://leetcode.com/studyplan/leetcode-75/).  
 🎯 My goal is to **complete all 75 problems** with clean and efficient C# solutions.
 
-## ✅ Progress: 7 / 75
+## ✅ Progress: 8 / 75
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|----------|
@@ -14,6 +14,7 @@
 | 5 | [345 - Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | Array / String | [Link](./Solutions/345%20-%20Reverse%20Vowels%20of%20a%20String/README.md) |
 | 6 | [151 - Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Array / String | [Link](./Solutions/151%20-%20Reverse%20Words%20in%20a%20String/README.md) |
 | 7 | [238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Array / String | [Link](./Solutions/238%20-%20Product%20of%20Array%20Except%20Self/README.md) |
+| 8 | [334 - Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | Medium | Array / String | [Link](./Solutions/334%20-%20Increasing%20Triplet%20Subsequence/README.md) |
 
 ## 🚀 How to Run
 
@@ -37,6 +38,9 @@ LeetCode-75/
 │   └── 238 - Product of Array Except Self/
 │       ├── ProductExceptSelf.cs
 │       └── README.md
+│   └── 334 - Increasing Triplet Subsequence//
+│       ├── IncreasingTriplet.cs
+│       └── README.md
 │   └── 345 - Reverse Vowels of a String/
 │       ├── README.md
 │       └── ReverseVowels.cs
@@ -55,6 +59,7 @@ LeetCode-75/
 ├── Solutions.Tests/
 │   └── CanPlaceFlowersTests.cs
 │   └── GcdOfStringsTests.cs
+│   └── IncreasingTripletTests.cs
 │   └── KidsWithCandiesTests.cs
 │   └── MergeAlternatelyTests.cs
 │   └── ProductExceptSelfTests.cs
