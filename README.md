@@ -3,7 +3,7 @@
 📘 This repository contains my solutions for the [LeetCode 75 Study Plan](https://leetcode.com/studyplan/leetcode-75/).  
 🎯 My goal is to **complete all 75 problems** with clean and efficient C# solutions.
 
-## ✅ Progress: 8 / 75
+## ✅ Progress: 9 / 75
 
 | # | Problem | Difficulty | Topic | Solution |
 |---|---------|------------|-------|----------|
