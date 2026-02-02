@@ -53,14 +53,6 @@ public class FindTheHighestAltitudeTests
     }
 
     [Fact]
-    public void LargestAltitudeTest7()
-    {
-        var solution = new Solution();
-        var result = solution.LargestAltitude(new int[] { 44, 32, -9, 52, 23, -50, 50, 33, -84, 47, -14, 84, 59, -62, 27, -76, 76 });
-        Assert.Equal(239, result);
-    }
-
-    [Fact]
     public void LargestAltitudeTest8()
     {
         var solution = new Solution();
